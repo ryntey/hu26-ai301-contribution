@@ -1,32 +1,32 @@
 # ai301-deliverableone
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Add Fear and Greed Crypto Sentiment Index Tool (Python)
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+
+**Contribution Number:** [1]  
+**Student:** [Lauryn Allotey]  
+**Issue:** https://github.com/tarunjandra/agent-tools-mcp-hub/issues/101
+**Status:** [Phase I] [In Progress]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
-
+I felt very drawn to this issue due to its potentially abstract nature. Crypto feels very deifinitive whereass emotions do not. I think that it's very interesting to record and output the genral sentiment towards cryptocurrency. This is to be used in addition to all of the other data that the tool provides and instwasd of just saying good or bad, the sentiment is tanked on somewhat of a scale, which I also think is ideal and will do a better job of capturing.
 ---
 
 ## Understanding the Issue
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+Alternative.me is a crypto API containing dashboards containing "real-time, accurate" cryptocurrency data.   
 
 ### Expected Behavior
 
-[What should happen?]
+
 
 ### Current Behavior
 
-[What actually happens?]
+It doesn't exist quite yet (although, since we selected the issue someone has proposed a solution and it has been closed, we haven't yet been able to observe their changes.)
 
 ### Affected Components
 
@@ -137,23 +137,20 @@ Using UMPIRE framework (adapted):
 ---
 
 ## Learnings & Reflections
+I learned a lot about 
 
 ### Technical Skills Gained
 
-[What you learned technically]
+ I got a deeper insight into learning how Claude works with Github. There may have been a tutorial at the beginning of class, but since I joined semi-late, I got to see it in action with the issues (all three) we were dealing with.
 
 ### Challenges Overcome
 
 [What was hard and how you solved it]
 
 ### What I'd Do Differently Next Time
-
-[Reflection on your process]
+Timing. Naturally, because we are a classroom there's a lot of discussion happening amongst ourselves prior to even selecting an issue, so I think that made space for our issues to be taken. However, I am glad for the level of discussion we had and I think it's necessary.
 
 ---
 
 ## Resources Used
-
-- [Link to helpful documentation]
-- [Tutorial or Stack Overflow post that helped]
-- [GitHub issues or discussions that helped]
+Claude
