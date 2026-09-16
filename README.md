@@ -18,49 +18,49 @@ I felt very drawn to this issue due to its potentially abstract nature. Crypto f
 ## Reproduction Process
 
 ### Environment Setup
-
-We walked through these steps as a class.
+We walked through these steps as a class, it goes as follows: 
 
 ### Steps to Reproduce
 
-1. [Step 1]
-2. [Step 2]
-3. [Observed result]
+1. Go to the repo of the issue your are working on
+2. Fork the repository
+3. Go to the code button, and select "Open in Github Desktop" to create your clone
+4. Add a branch to make your changes
 
 ### Reproduction Evidence
 
-- **Commit showing reproduction:** [Link to commit in your fork]
+- **Commit showing reproduction:** Walked through as a class, there is a link to the branch below!
 
-- **My findings:** [What you discovered during reproduction]
+- **My findings:** N/A
 
 ---
 ## Solution Approach
 
 ### Analysis
-
-[Your analysis of the root cause - what's causing the issue?]
+ 
+N/A There is no root cause, this is a feature add.
 
 ### Proposed Solution
 
-[High-level description of your fix approach]
-2
+N/A Not a bug, but the feature. The solution would be to add the feature!
 
 ### Implementation Plan
 
 Using UMPIRE framework (adapted):
 
-**Understand:** [Restate the problem]
+**Understand:** Currently, there is no tool to calculate the general sentiment around cryptocurrency
 
-**Match:** [What similar patterns/solutions exist in the codebase?]
+**Match:** What similar problems exist in the codebase? N/A because it's a feature, however it is inline with the rest of the pre existing features. 
 
 **Plan:** [Step-by-step implementation plan]
-1. [Modify file X to do Y]
-2. [Add function Z]
-3. [Update tests]
+1. Create your own branch or your cloned repository 
+2. Add the tool (Fear and Greed Index)
+3. Test either manually or with verification script, in this case, verification script
+4. Submit RR
 
 **Implement:** [[Link to your branch/commits as you work]](https://github.com/shanker-codepath/agent-tools-mcp-hub/tree/fear-and-greed)
 
-**Review:** [Self-review checklist - does it follow the project's contribution guidelines?]
+**Review:** Yes
 
-**Evaluate:** [How will you verify it works?]
+**Evaluate:** Used tool verification script to ensure functionality 
 
