@@ -64,3 +64,34 @@ Using UMPIRE framework (adapted):
 
 **Evaluate:** Used tool verification script to ensure functionality 
 
+Testing Strategy
+
+### Unit Tests
+
+- [ ] N/A
+### Integration Tests
+
+- [ ] N/A
+
+### Manual Testing
+We manually tested, and used the tool verification script for the crypto fear and greed index
+
+---
+
+## Implementation Notes
+
+We did this portion as a class, so it didn't span across the weeks. We used claude to assist in fixes, but the steps went as follows:
+0. Install or setup
+1. Select issue
+2. Recreate 
+3. Implement 
+4. feedback
+
+
+### Code Changes
+
+- **Files modified:** the README.md, metadata.json, registry.json, and tool.py
+- **Key commits:** [[Links to important commits]](https://github.com/shanker-codepath/agent-tools-mcp-hub/tree/fear-and-greed/tools/crypto_fear_and_greed_index)
+- **Approach decisions:** We decided to approach the problem solving as a class with the help of Claude, with Professor Daniel being the main facilitator 
+
+
