@@ -94,4 +94,5 @@ We did this portion as a class, so it didn't span across the weeks. We used clau
 - **Key commits:** [[Links to important commits]](https://github.com/shanker-codepath/agent-tools-mcp-hub/tree/fear-and-greed/tools/crypto_fear_and_greed_index)
 - **Approach decisions:** We decided to approach the problem solving as a class with the help of Claude, with Professor Daniel being the main facilitator 
 
+A brief summary of what you contributed: We made our own solution for the tool, however, it was already solved and we moved forward with our own version of the tool. Because of this, a link to the pull request, notes on feedback, and status are all N/A.
 
